@@ -1,0 +1,5 @@
+alive_progress==3.1.5
+colorama==0.4.4
+prompt_toolkit==3.0.46
+Requests==2.32.3
+rich_click==1.8.2
